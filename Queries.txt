@@ -1,0 +1,19 @@
+Q1 Finding Month Which Brought Highest Number Of Saeles
+Q2 Finding Year wise Saeles
+Q3 Finding the customers which orders the most
+ Q4 Finding produts which were sold the most
+Q5 Finding which category brings most customers to the website
+Q6 Finding which proudct brought the highest sale in a particular month
+Q7 Finding which proudct category the highest sale in a particular month
+Q8 Finding total quantity of each products sold through the website
+Q9 Finding Products whose sales were very low i.e. <120
+Q10 Products which are there in inventory
+Q11 Products which are outofstock
+Q12 Orders which were not delivered yet
+Q13 Orders whose shping has not yet started
+Q14 Finding average deliver time of each products
+Q15 which product brought the maximum revenue
+Q16 which category brought the maximum revenue
+Q17 finding which product in each category brought the highest revenue
+Q18 Findin selling price of each product
+Q19 Finding products which gets more reviews
