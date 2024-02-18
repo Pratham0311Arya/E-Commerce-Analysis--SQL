@@ -32,4 +32,3 @@ Q19 Finding products which gets more reviews
 4. Products in the fitness category were the best sellers.
 5. November recorded the highest sales figures.
 6. The average delivery time spans 15-16 days.
-7. Etc.
